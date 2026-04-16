@@ -1,6 +1,6 @@
 # LLM Prompt Log — Bank Customer Churn Project
 
-**LLM Specialist:** [Your Name]  
+**LLM Specialist:** Yifei Yu and Tuong Minh
 **Date:** April 2025  
 **Model Used:** Claude (claude-sonnet-4-20250514), accessed via claude.ai  
 **Dataset:** Bank Customer Churn — https://www.kaggle.com/datasets/gauravtopre/bank-customer-churn-dataset  
