@@ -1,4 +1,4 @@
-# AnalyticsInPracticeGroup3
+# Analytics In Practice Group 3
 Group Project for Analytics in Practice module at Trinity College Dublin for group 3.
 
 In this file, both the Role Assignments and LLM Prompt Log contents are included. However, for a better view, we also created separate files. To run the code, it is optimal to open it on Google Colab and run the sections there. 
