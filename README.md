@@ -3,6 +3,7 @@ Group Project for Analytics in Practice module at Trinity College Dublin for gro
 
 In this file, both the Role Assignments and LLM Prompt Log contents are included. However, for a better view, we also created separate files. To run the code, it is optimal to open it on Google Colab and run the sections there. 
 
+## Dashboard 
 The **visualisatons** (html file) can be explored through this link: [Bank Churn Dashboard](https://69df70562d2c967a38e3d65a--musical-dieffenbachia-758f48.netlify.app/)
 
 
