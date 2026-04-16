@@ -1,17 +1,16 @@
 # AnalyticsInPracticeGroup3
 Group Project for Analytics in Practice module at Trinity College Dublin for group 3.
 
-In this file, both the Role Assignments and LLM Prompt Log contents are included. However, for a better view, we also created separate files. 
+In this file, both the Role Assignments and LLM Prompt Log contents are included. However, for a better view, we also created separate files. To run the code, it is optimal to open it on Google Colab and run the sections there. 
 
-To run the code, it is optimal to open it on Google Colab and run the sections there. 
 The **visualisatons** (html file) can be explored through this link: [Bank Churn Dashboard](https://69df70562d2c967a38e3d65a--musical-dieffenbachia-758f48.netlify.app/)
 
-### Role Assignments
+
+# Role Assignments
 [Role Assignments.pdf](https://github.com/user-attachments/files/26785663/Role.Assignments.pdf)
 
 
 
-### LLM Prompt Log
 # LLM Prompt Log — Bank Customer Churn Project
 
 **LLM Specialist:** Tuong Minh and Yifei Yu  
